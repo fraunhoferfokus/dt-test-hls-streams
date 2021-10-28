@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Apple Test Streams",
+    "samples": [
+      {
+        "name": "Advanced stream",
+        "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8"
+      },
+      {
+        "name": "Advanced stream (HEVC/H.264)",
+        "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8"
+      },
+      {
+        "name": "Basic Stream 4:3",
+        "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8"
+      },
+      {
+        "name": "Basic Stream 16:9",
+        "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8"
+      }
+    ]
+  }
+]
