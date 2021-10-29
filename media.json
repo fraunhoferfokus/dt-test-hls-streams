@@ -1,23 +1,140 @@
 [
   {
-    "name": "Apple Test Streams",
+    "name": "FTV Streaming Samples and Reference Streams (Live and Vod)",
     "samples": [
       {
-        "name": "Advanced stream",
-        "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8"
+        "name": "Arte HD",
+        "uri": "http://svc45.main.xpx.t-online.de/bpk-tv/ARTE_HD/HLS_CMAF/index.m3u8"
       },
       {
-        "name": "Advanced stream (HEVC/H.264)",
-        "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8"
+        "name": "Das Erste HD",
+        "uri": "http://svc45.main.xpx.t-online.de/bpk-tv/Das_Erste_HD/HLS_CMAF/index.m3u8"
       },
       {
-        "name": "Basic Stream 4:3",
-        "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8"
+        "name": "Deluxe Music HD",
+        "uri": "http://svc45.main.xpx.t-online.de/bpk-tv/Deluxe_Music_HD/HLS_CMAF/index.m3u8"
       },
       {
-        "name": "Basic Stream 16:9",
-        "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8"
+        "name": "Kabel 1 HD",
+        "uri": "http://svc45.main.xpx.t-online.de/bpk-tv/Kabel_1_SD/HLS_CMAF/index.m3u8"
+      },
+      {
+        "name": "iSIMS-B",
+        "uri": "http://svc45.main.xpx.t-online.de/bpk-tv/ISIMS_B/HLS_CMAF/index.m3u8"
+      },
+      {
+        "name": "ProSieben HD",
+        "uri": "http://svc45.main.xpx.t-online.de/bpk-tv/ProSieben_HD/HLS_CMAF/index.m3u8"
+      },
+      {
+        "name": "RTL HD",
+        "uri": "http://svc45.main.xpx.t-online.de/bpk-tv/RTL_HD/HLS_CMAF/index.m3u8"
+      },
+      {
+        "name": "RTL SD",
+        "uri": "http://svc45.main.xpx.t-online.de/bpk-tv/RTL_SD/HLS_CMAF/index.m3u8"
+      },
+      {
+        "name": "Welt HD",
+        "uri": "http://svc45.main.xpx.t-online.de/bpk-tv/Welt_HD/HLS_CMAF/index.m3u8"
+      },
+      {
+        "name": "ZDF HD",
+        "uri": "http://svc45.main.xpx.t-online.de/bpk-tv/ZDF_HD/HLS_CMAF/index.m3u8"
+      },
+      {
+        "name": "Ref20-03 25 fps source SD HEVC",
+        "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/DTAG-test-clip-25p-20190611-SD_HEVC_DASH/DTAG-test-clip-25p-20190611-SD_HEVC_DASH/index.m3u8"
+      },
+      {
+        "name": "Ref20-03 25 fps source HD HEVC",
+        "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/DTAG-test-clip-25p-20190611-HD_HEVC_DASH/DTAG-test-clip-25p-20190611-HD_HEVC_DASH/index.m3u8"
+      },
+      {
+        "name": "Ref20-03 25 fps source 4K HEVC",
+        "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/DTAG-test-clip-25p-20190611-4K_HEVC_DASH/DTAG-test-clip-25p-20190611-4K_HEVC_DASH/index.m3u8"
+      },
+      {
+        "name": "Ref20-03 25 fps source 4K HEVC HDR",
+        "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/DTAG-test-clip-25p-20190611-4K_HEVC_DASH_HDR/DTAG-test-clip-25p-20190611-4K_HEVC_DASH_HDR/index.m3u8"
+      },
+      {
+        "name": "Ref20-03 25 fps source SD H.264 ISMV",
+        "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/DTAG-test-clip-25p-20190611-SD_H_264_ISMV/DTAG-test-clip-25p-20190611-SD_H_264_ISMV/index.m3u8"
+      },
+      {
+        "name": "AES encrypted",
+        "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/MPX_AES_encryption_test-HD_H_264_ISMV_encrypted/MPX_AES_encryption_test-HD_H_264_ISMV_encrypted/index.m3u8"
+      },
+      {
+        "name": "About Last Night AES SD HEVC",
+        "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/About_Last_Night_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-SD_HEVC_DASH_zip/About_Last_Night_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-SD_HEVC_DASH_zip/index.m3u8"
+      },
+      {
+        "name": "About Last Night AES HD HEVC",
+        "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/About_Last_Night_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-HD_HEVC_DASH_zip/About_Last_Night_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-HD_HEVC_DASH_zip/index.m3u8"
+      },
+      {
+        "name": "About Last Night AES SD H264 ISMV",
+        "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/About_Last_Night_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/About_Last_Night_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/index.m3u8"
+      },
+      {
+        "name": "Erlöse uns von dem Bösen AES SD H264 ISMV",
+        "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/Erloese_uns_von_dem_Boesen_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/Erloese_uns_von_dem_Boesen_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/index.m3u8"
+      },
+      {
+        "name": "2012 AES SD HEVC",
+        "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/2012-Main_Movie-9221571562371527134-SD_HEVC_DASH_zip/2012-Main_Movie-9221571562371527134-SD_HEVC_DASH_zip/index.m3u8"
+      },
+      {
+        "name": "2012 AES SD H264 ISMV",
+        "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/2012-Main_Movie-9221571562371527134-SD_H_264_ISMV_zip/2012-Main_Movie-9221571562371527134-SD_H_264_ISMV_zip/index.m3u8"
+      },
+      {
+        "name": "Keine Gute Tat AES SD HEVC",
+        "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/Keine_gute_Tat_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-SD_HEVC_DASH_zip/Keine_gute_Tat_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-SD_HEVC_DASH_zip/index.m3u8"
+      },
+      {
+        "name": "Keine Gute Tat AES SD H264 ISMV",
+        "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/Keine_gute_Tat_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/Keine_gute_Tat_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/index.m3u8"
+      },
+      {
+        "name": "After Earth AES SD HEVC",
+        "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/After_Earth_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-SD_HEVC_DASH_zip/After_Earth_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-SD_HEVC_DASH_zip/index.m3u8"
+      },
+      {
+        "name": "After Earth AES HD HEVC",
+        "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/After_Earth_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-HD_HEVC_DASH_zip/After_Earth_MAIN_MOVIE-Main_Movie-4K_HEVC_DASH-HD_HEVC_DASH_zip/index.m3u8"
+      },
+      {
+        "name": "After Earth AES SD H264 ISMV",
+        "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/After_Earth_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/After_Earth_MAIN_MOVIE-Main_Movie-SD_H_264_ISMV_zip/index.m3u8"
+      },
+      {
+        "name": "Armored AES SD H264 ISMV",
+        "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/Armored_MAIN-SD_H_264_ISMV_zip/Armored_MAIN-SD_H_264_ISMV_zip/index.m3u8"
       }
     ]
-  }
+  },
+{
+  "name": "Apple Test Streams",
+  "samples": [
+    {
+      "name": "Advanced stream",
+      "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8"
+    },
+    {
+      "name": "Advanced stream (HEVC/H.264)",
+      "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8"
+    },
+    {
+      "name": "Basic Stream 4:3",
+      "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8"
+    },
+    {
+      "name": "Basic Stream 16:9",
+      "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8"
+    }
+  ]
+}
 ]
