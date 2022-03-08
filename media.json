@@ -43,6 +43,46 @@
         "uri": "http://svc45.main.xpx.t-online.de/bpk-tv/ZDF_HD/HLS_CMAF/index.m3u8"
       },
       {
+        "name": "MDE-Prod 2012_MAIN_MOVIESD_H.264_ISMV",
+        "uri": "https://s22.tv.telekom.net/bpk-vod/vod/default/prod-9221438342941469626/prod-9221438342941469626/index.m3u8"
+      },
+      {
+        "name": "MDE-Prod 2012_MAIN_MOVIEHD_H.264_ISMV",
+        "uri": "https://s23.tv.telekom.net/bpk-vod/vod/default/prod-9221438342941469627/prod-9221438342941469627/index.m3u8"
+      },
+      {
+        "name": "MDE-Prod 2012_MAIN_MOVIE4K_HEVC_DASH",
+        "uri": "https://s23.tv.telekom.net/bpk-vod/vod/default/prod-9221438342941134489/prod-9221438342941134489/index.m3u8"
+      },
+      {
+        "name": "MDE-Prod 2012_MAIN_MOVIE4K_HEVC_DASH_HDR",
+        "uri": "https://s23.tv.telekom.net/bpk-vod/vod/default/prod-9221438342941134488/prod-9221438342941134488/index.m3u8"
+      },
+      {
+	      "name": "MDE-Prod Folge 1_MAIN_MOVIEHD_H.264_ISMV",
+	      "uri": "https://s23.tv.telekom.net/bpk-vod/vod/default/prod-9221438342941510052/prod-9221438342941510052/index.m3u8"
+      },
+      {
+	      "name": "MDE-Prod Folge 1_MAIN_MOVIE4K_HEVC_DASH",
+	      "uri": "https://s23.tv.telekom.net/bpk-vod/vod/default/prod-9221438342941510055/prod-9221438342941510055/index.m3u8"
+      },
+      {
+	      "name": "MDE-Prod Folge 2_MAIN_MOVIEHD_H.264_ISMV",
+	      "uri": "https://s23.tv.telekom.net/bpk-vod/vod/default/prod-9221438342941510058/prod-9221438342941510058/index.m3u8"
+      },
+      {
+	      "name": "MDE-Prod Folge 2_MAIN_MOVIE4K_HEVC_DASH",
+	      "uri": "https://s23.tv.telekom.net/bpk-vod/vod/default/prod-9221438342941510061/prod-9221438342941510061/index.m3u8"
+      },
+      {
+	      "name": "MDE-Prod Folge 3_MAIN_MOVIEHD_H.264_ISMV",
+	      "uri": "https://s23.tv.telekom.net/bpk-vod/vod/default/prod-9221438342941510064/prod-9221438342941510064/index.m3u8"
+      },
+      {
+	      "name": "MDE-Prod Folge 3_MAIN_MOVIE4K_HEVC_DASH",
+	      "uri": "https://s23.tv.telekom.net/bpk-vod/vod/default/prod-9221438342941510067/prod-9221438342941510067/index.m3u8"
+      },
+      {
         "name": "Ref20-03 25 fps source SD HEVC",
         "uri": "https://xs22.tv.telekom.net/bpk-vod/vod_clear/default/DTAG-test-clip-25p-20190611-SD_HEVC_DASH/DTAG-test-clip-25p-20190611-SD_HEVC_DASH/index.m3u8"
       },
