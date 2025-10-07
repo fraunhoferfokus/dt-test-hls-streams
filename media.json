@@ -43,6 +43,10 @@
         "uri": "http://svc45.main.xpx.t-online.de/bpk-tv/ZDF_HD/HLS_CMAF/index.m3u8"
       },
       {
+        "name": "Bernhard Langer - Der ewige Champion -",
+        "uri": "https://s24.tv.telekom.net/bpk-vod/vodc/default/prod-9221438342942146480-1755156117/prod-9221438342942146480-1755156117/index.m3u8"
+	  },		  
+	  {  
         "name": "MDE-Prod 2012_MAIN_MOVIESD_H.264_ISMV",
         "uri": "https://s22.tv.telekom.net/bpk-vod/vod/default/prod-9221438342941469626/prod-9221438342941469626/index.m3u8"
       },
